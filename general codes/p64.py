@@ -1,0 +1,5 @@
+fo = open("foo.txt", "wb")
+print ("Nam e of the file: ", fo.name)
+print ("Closed or not : ", fo.closed)
+print ("Opening m ode : ", fo.mode)
+print ("Softspace flag : ", fo.softspace)
